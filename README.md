@@ -9,7 +9,7 @@ If you are using MyBatis, it is recommended to try this pagination plugin.
 This must be the **MOST CONVENIENT** pagination plugin.
 
 PageHelper supports any complex single-table, multi-table queries.
-Some special cases please refer to the [**Important note**](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/en/Important.md).
+As to some special cases, please refer to the [**Important note**](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/en/Important.md).
 
 Want to use PageHelper? 
 Please check out [**How to use PageHelper**](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/en/HowToUse.md).
